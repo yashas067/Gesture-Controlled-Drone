@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+gesture_env/
+drone_env/
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+*.ulg
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+.pytest_cache/
